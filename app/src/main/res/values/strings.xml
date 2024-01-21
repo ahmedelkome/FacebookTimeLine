@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="user_name">Unblast</string>
+    <string name="time_of_post">2 hrs .</string>
+    <string name="description">Bukle up, because change is coming to WordPress</string>
+    <string name="Description">Bukle up, because change is coming to WordPress http://unblast.com/color-schemes</string>
+    <string name="number_of_react">12</string>
+    <string name="number_share">1 Share</string>
+    <string name="number_of_share">1 share</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+</resources>
